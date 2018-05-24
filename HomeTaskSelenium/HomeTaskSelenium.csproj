@@ -63,6 +63,8 @@
     <Compile Include="Entities\Interfaces\BaseComponent.cs" />
     <Compile Include="Entities\Interfaces\BasePage.cs" />
     <Compile Include="Entities\Link.cs" />
+    <Compile Include="Entities\OrderPage.cs" />
+    <Compile Include="Entities\PersonalMenu.cs" />
     <Compile Include="Entities\Section.cs" />
     <Compile Include="Entities\StartPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
